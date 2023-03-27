@@ -3,7 +3,6 @@ package Branch;
 public class simple_Branch_B1 {
     String name,id;
     float cgpa;
-    int number_of_classes;
 
     public simple_Branch_B1(String name) {
         this.name = name;
@@ -16,5 +15,5 @@ public class simple_Branch_B1 {
     public void setName(String name) {
         this.name = name;
     }
-    
+
 }
